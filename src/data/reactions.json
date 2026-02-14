@@ -1,0 +1,55 @@
+[
+    {
+        "id": "sn1-reaction",
+        "name": "SN1 Reaction",
+        "chapter": "Nucleophilic Substitution",
+        "reactants": [
+            "CC(C)(C)Cl",
+            "[OH-]"
+        ],
+        "products": [
+            "CC(C)(C)O",
+            "[Cl-]"
+        ],
+        "reagents": "H2O / Ethanol",
+        "conditions": "Room Temperature",
+        "mechanismSteps": [
+            {
+                "step": 1,
+                "description": "Formation of carbocation",
+                "image": ""
+            },
+            {
+                "step": 2,
+                "description": "Nucleophilic attack",
+                "image": ""
+            }
+        ],
+        "memoryStory": "Imagine a crowded party where one person leaves first before someone else can enter.",
+        "funFact": "SN1 reactions prefer tertiary carbocations for stability!"
+    },
+    {
+        "id": "sn2-reaction",
+        "name": "SN2 Reaction",
+        "chapter": "Nucleophilic Substitution",
+        "reactants": [
+            "CCl",
+            "[OH-]"
+        ],
+        "products": [
+            "CO",
+            "[Cl-]"
+        ],
+        "reagents": "DMSO",
+        "conditions": "Heat",
+        "mechanismSteps": [
+            {
+                "step": 1,
+                "description": "Backside attack",
+                "image": ""
+            }
+        ],
+        "memoryStory": "A simultaneous push-and-pull movement, like passing a baton in a relay race.",
+        "funFact": "SN2 is a one-step, bimolecular process!"
+    }
+]
